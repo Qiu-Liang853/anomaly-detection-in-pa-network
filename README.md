@@ -12,8 +12,8 @@ This repository contains the Python code and Jupyter notebooks used for the simu
 - `estimation_pa_anomaly_joint.py`: estimates $\beta$ and $\delta$ simultaneously.
 - `support_tools.py`, `pa_core.py`: helper functions used in the simulations.
 - `detection_delta_known.ipynb`: notebook for running detection experiments with known $\delta$.
-- `detection_delta_unknown.ipynb`: notebook for running detection experiments with unknown $\delta$.
-- `Experiment_estimation.ipynb`: notebook for running estimation experiments.
+- `detection_delta_unknown_H1.ipynb`: notebook for running detection experiments with unknown $\delta$.
+- `experiment_estimation.ipynb`: notebook for running estimation experiments.
 - `numerical_analysis.ipynb`: notebook for analyzing additional results and generating figures.
 
 ## Requirements
